@@ -1,11 +1,9 @@
-/* div{
-	width:450px;
-	box-sizing:border-box;
+.box {
+        width: 300px;
+        background-color: lightblue;
+        border: 15px solid blue;
+		padding: 50px;
+        margin: 20px;
+        font-family: Arial, sans-serif;
+        text-align: center;
 }
-p{
-	background-color:lightblue;
-	padding:25px;
-	width:300px;
-	border:16px solid blue;
-	margin:20px
-} */
