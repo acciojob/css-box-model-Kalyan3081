@@ -1,2 +1,16 @@
-
 /* Your CSS Code here. */
+body{
+	
+}
+div{
+	box-sizing:border-box;
+	width:430px;
+}
+
+p{
+	background-color:lightblue;
+	padding:50px;
+	width:300px;
+	border:15px solid blue;
+	margin:20px
+}
